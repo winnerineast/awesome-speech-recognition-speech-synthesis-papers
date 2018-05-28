@@ -27,13 +27,15 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **A post-processing system to yield reduced word error rates: Recognizer Output Voting Error Reduction (ROVER)**(1997), J.G. Fiscus. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=659110)
 
+- **Speech recognition with weighted finite-state transducers**(2001), M Mohri et al. [[pdf]](https://cs.nyu.edu/~mohri/pub/hbka.pdf)
+
 - **Review of Tdnn (time Delay Neural Network) Architectures for Speech Recognition**(2014), Masahide Sugiyamat et al. [[pdf]](https://pdfs.semanticscholar.org/073b/6128f04fe4b88b88ae297615af289c308753.pdf?\_ga=2.103860032.1725061846.1494658711-1308334183.1494658711)
 
 - **Framewise phoneme classification with bidirectional LSTM and other neural network architectures**(2005), Alex Graves et al. [[pdf]](https://pdfs.semanticscholar.org/83d6/1d9b71a838aa150d7ef232dc6d4c73e24250.pdf?\_ga=1.187838062.730356906.1493526584)
 
 - **Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks**(2006), Alex Graves et al. [[pdf]](https://pdfs.semanticscholar.org/daed/0db4538e1a83b4680545b44e3083843168e7.pdf?\_ga=1.45211874.730356906.1493526584)
 
-- **The kaldi speech recognition toolkit**(2011), Daniel Povey et al. [[pdf]](http://publications.idiap.ch/downloads/reports/2011/Povey_Idiap-RR-04-2012.pdf)
+- **The kaldi speech recognition toolkit**(2011), Daniel Povey et al. [[pdf]](http://publications.idiap.ch/downloads/reports/2011/Povey\_Idiap-RR-04-2012.pdf)
 
 - **Applying Convolutional Neural Networks concepts to hybrid NN-HMM model for speech recognition**(2012), Ossama Abdel-Hamid et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6288864)
 
@@ -77,6 +79,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Towards End-to-End Speech Recognition with Recurrent Neural Networks**(2014), Alex Graves et al. [[pdf]](https://pdfs.semanticscholar.org/0fa5/53cfa0cf3cbdf7a913aa2ae789a757dfb32f.pdf?\_ga=1.214035281.730356906.1493526584)
 
+- **A neural transducer**(2015), N Jaitly et al. [[pdf]](https://arxiv.org/abs/1511.04868)
+
 - **Attention-Based Models for Speech Recognition**(2015), Jan Chorowski et al. [[pdf]](https://pdfs.semanticscholar.org/b624/504240fa52ab76167acfe3156150ca01cf3b.pdf?\_ga=1.50080608.730356906.1493526584)
 
 - **Analysis of CNN-based speech recognition system using raw speech as input**(2015), Dimitri Palaz et al. [[pdf]](https://pdfs.semanticscholar.org/31f5/36e48482fc273d521525604606f417638881.pdf?\_ga=1.213722706.730356906.1493526584)
@@ -86,6 +90,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Deep convolutional neural networks for acoustic modeling in low resource languages**(2015), William Chan et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178332)
 
 - **Deep Neural Networks for Single-Channel Multi-Talker Speech Recognition**(2015), Chao Weng et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7122291)
+
+- **EESEN: End-to-end speech recognition using deep RNN models and WFST-based decoding**(2015), Y Miao et al. [[pdf]](https://arxiv.org/pdf/1507.08240.pdf)
 
 - **Fast and Accurate Recurrent Neural Network Acoustic Models for Speech Recognition**(2015), Hasim Sak et al. [[pdf]](https://pdfs.semanticscholar.org/9fca/2af9a0e3f2c5c3ed47abb3ebd21b7265ac2b.pdf?\_ga=1.222094174.730356906.1493526584)
 
@@ -141,6 +147,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **An Unsupervised Speaker Clustering Technique based on SOM and I-vectors for Speech Recognition Systems**(2017), Hany Ahmed et al. [[pdf]](https://pdfs.semanticscholar.org/f5be/2cb9d37e5e54c5d20644ff7025cdee14995f.pdf?\_ga=1.185419759.730356906.1493526584)
 
+- **Attention-Based End-to-End Speech Recognition in Mandarin**(2017), C Shan et al. [[pdf]](https://arxiv.org/abs/1707.07167)
+
 - **Building DNN acoustic models for large vocabulary speech recognition**(2017), Andrew L. Maas et al. [[pdf]](https://pdfs.semanticscholar.org/ff7b/9fbbbdc78d874fa93134d643a5a0295f648f.pdf?\_ga=1.242426692.730356906.1493526584)
 
 - **Direct Acoustics-to-Word Models for English Conversational Speech Recognition**(2017), Kartik Audhkhasi et al. [[pdf]](https://arxiv.org/pdf/1703.07754.pdf)
@@ -151,15 +159,25 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA**(2017), Song Han et al. [[pdf]](http://dl.acm.org/citation.cfm?id=3021745)
 
+- **Exploring Speech Enhancement with Generative Adversarial Networks for Robust Speech Recognition**(2017), Chris Donahue et al. [[pdf]](https://arxiv.org/pdf/1711.05747)
+
 - **Deep LSTM for Large Vocabulary Continuous Speech Recognition**(2017), Xu Tian et al. [[pdf]](https://arxiv.org/pdf/1703.07090.pdf)
 
+- **Dynamic Layer Normalization for Adaptive Neural Acoustic Modeling in Speech Recognition**(2017), Taesup Kim et al. [[pdf]](https://arxiv.org/pdf/1707.06065v1.pdf)
+
 - **Gram-CTC: Automatic Unit Selection and Target Decomposition for Sequence Labelling**(2017), Hairong Liu et al. [[pdf]](https://arxiv.org/pdf/1703.00096.pdf)
+
+- **Improving the Performance of Online Neural Transducer Models**(2017), Tara N. Sainath et al. [[pdf]](https://arxiv.org/pdf/1712.01807)
+
+- **Learning Filterbanks from Raw Speech for Phone Recognition**(2017), Neil Zeghidour et al. [[pdf]](https://arxiv.org/pdf/1711.01161)
 
 - **Multichannel End-to-end Speech Recognition**(2017), Tsubasa Ochiai et al. [[pdf]](https://arxiv.org/pdf/1703.04783.pdf)
 
 - **Multi-task Learning with CTC and Segmental CRF for Speech Recognition**(2017), Liang Lu et al. [[pdf]](https://arxiv.org/pdf/1702.06378.pdf)
 
 - **Multichannel Signal Processing With Deep Neural Networks for Automatic Speech Recognition**(2017), Tara N. Sainath et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7859320)
+
+- **Multilingual Speech Recognition With A Single End-To-End Model**(2017), Shubham Toshniwal et al. [[pdf]](https://arxiv.org/pdf/1711.01694)
 
 - **Optimizing expected word error rate via sampling for speech recognition**(2017), Matt Shannon. [[pdf]](https://arxiv.org/pdf/1706.02776)
 
@@ -171,14 +189,41 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Reducing Bias in Production Speech Models**(2017), Eric Battenberg et al. [[pdf]](https://arxiv.org/pdf/1705.04400.pdf)
 
+- **Robust Speech Recognition Using Generative Adversarial Networks**(2017), Anuroop Sriram et al. [[pdf]](https://arxiv.org/pdf/1711.01567)
+
+- **State-of-the-art Speech Recognition With Sequence-to-Sequence Models**(2017), Chung-Cheng Chiu et al. [[pdf]](https://arxiv.org/pdf/1712.01769)
+
+- **Towards Language-Universal End-to-End Speech Recognition**(2017), Suyoun Kim et al. [[pdf]](https://arxiv.org/pdf/1711.02207)
+
+- **Accelerating recurrent neural network language model based online speech recognition system**(2018), K Lee et al. [[pdf]](https://arxiv.org/pdf/1801.09866)
+
+
+### Speaker Verification
+- **Speaker Verification Using Adapted Gaussian Mixture Models**(2000), Douglas A.Reynolds et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S1051200499903615#)
+
+- **A tutorial on text-independent speaker verification**(2004), Frédéric Bimbot et al. [[pdf]](https://dl.acm.org/ft\_gateway.cfm?id=1289376&ftid=464492&dwn=1&CFID=843437542&CFTOKEN=31448020)
+
+- **Deep neural networks for small footprint text-dependent speaker verification**(2014), E Variani et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6854363)
+
+- **Deep Speaker Vectors for Semi Text-independent Speaker Verification**(2015), Lantian Li et al. [[pdf]](https://arxiv.org/pdf/1505.06427)
+
+- **Deep Speaker: an End-to-End Neural Speaker Embedding System**(2017), Chao Li et al. [[pdf]](https://arxiv.org/pdf/1705.02304.pdf)
+
+- **Deep Speaker Feature Learning for Text-independent Speaker Verification**(2017), Lantian Li et al. [[pdf]](https://arxiv.org/pdf/1705.03670)
+
+- **Deep Speaker Verification: Do We Need End to End?**(2017), Dong Wang et al. [[pdf]](https://arxiv.org/pdf/1706.07859)
+
+- **Speaker Diarization with LSTM**(2017), Quan Wang et al. [[pdf]](https://arxiv.org/pdf/1710.10468)
+
+- **Text-Independent Speaker Verification Using 3D Convolutional Neural Networks**(2017), Amirsina Torfi et al. [[pdf]](https://arxiv.org/pdf/1705.09422)
+
 
 ### Speech Synthesis
-
 - **Signal estimation from modified short-time Fourier transform**(1993), Daniel W. Griffin et al. [[pdf]](https://pdfs.semanticscholar.org/ade8/d1511a61d78948bb0d43e207593389935421.pdf?\_ga=2.229355228.1725061846.1494658711-1308334183.1494658711)
 
-- **A fast Griffin-Lim algorithm**(2013), Nathanael Perraudin et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6701851)
+- **Text-to-speech synthesis**(2009), Paul Taylor et al. [[pdf]](https://books.google.com/books?hl=zh-CN&lr=&id=BFnkm-FpBAUC&oi=fnd&pg=PR9&dq=Text-to-Speech+Synthesis&ots=ucm6pVQ0bW&sig=1ZoIFILLQLbdHtJu0MlLHkmPnqE#v=onepage&q=Text-to-Speech%20Synthesis&f=false)
 
-- **Char2Wav: End-to-end speech synthesis**(2017), J Sotelo et al. [[pdf]](https://openreview.net/forum?id=B1VWyySKx)
+- **A fast Griffin-Lim algorithm**(2013), Nathanael Perraudin et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6701851)
 
 - **First Step Towards End-to-End Parametric TTS Synthesis: Generating Spectral Parameters with Neural Attention**(2016), Wenfu Wang et al. [[pdf]](http://doi.org/10.21437/Interspeech.2016-134)
 
@@ -188,20 +233,43 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **WaveNet: A Generative Model for Raw Audio**(2016), Aäron van den Oord et al. [[pdf]](https://arxiv.org/pdf/1609.03499.pdf)
 
+- **Char2Wav: End-to-end speech synthesis**(2017), J Sotelo et al. [[pdf]](https://openreview.net/forum?id=B1VWyySKx)
+
 - **Deep Voice: Real-time Neural Text-to-Speech**(2017), Sercan O. Arik et al. [[pdf]](https://arxiv.org/pdf/1702.07825.pdf)
 
 - **Deep Voice 2: Multi-Speaker Neural Text-to-Speech**(2017), Sercan Arik et al. [[pdf]](https://arxiv.org/pdf/1705.08947)
+
+- **Deep Voice 3: 2000-Speaker Neural Text-to-speech**(2017), Wei Ping et al. [[pdf]](https://arxiv.org/pdf/1710.07654)
+
+- **Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions**(2017), Jonathan Shen et al. [[pdf]](https://arxiv.org/pdf/1712.05884)
+
+- **Parallel WaveNet: Fast High-Fidelity Speech Synthesis**(2017), Aaron van den Oord et al. [[pdf]](https://arxiv.org/pdf/1711.10433)
 
 - **Statistical Parametric Speech Synthesis Using Generative Adversarial Networks Under A Multi-task Learning Framework**(2017), S Yang et al. [[pdf]](https://arxiv.org/pdf/1707.01670)
 
 - **Tacotron: Towards End-to-End Speech Synthesis**(2017), Yuxuan Wang et al. [[pdf]](https://pdfs.semanticscholar.org/a072/c2a400f62f720b68dc54a662fb1ae115bf06.pdf?\_ga=2.133718478.1725061846.1494658711-1308334183.1494658711)
 
+- **Uncovering Latent Style Factors for Expressive Speech Synthesis**(2017), Yuxuan Wang et al. [[pdf]](https://arxiv.org/pdf/1711.00520)
+
+- **VoiceLoop: Voice Fitting and Synthesis via a Phonological Loop**(2017), Yaniv Taigman et al. [[pdf]](https://arxiv.org/pdf/1707.06588)
+
+- **Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions**(2017), Jonathan Shen et al. [[pdf]](https://arxiv.org/pdf/1712.05884)
+
+- **Neural Voice Cloning with a Few Samples**(2018), Sercan O. Arık ,  Jitong Chen , 1 Kainan Peng , Wei Ping *  et al. [[pdf]](https://arxiv.org/pdf/1802.06006.pdf)
+
+
 ### Language Modelling
 - **Class-Based n-gram Models of Natural Language**(1992), Peter F. Brown et al. [[pdf]](https://pdfs.semanticscholar.org/ce84/cf6160ab221d5ee67afad046d2b89560749d.pdf?\_ga=2.197138663.999867306.1494660639-1308334183.1494658711)
 
+- **An empirical study of smoothing techniques for language modeling**(1996), Stanley F. Chen et al. [[pdf]](https://dl.acm.org/ft\_gateway.cfm?id=981904&ftid=567802&dwn=1&CFID=843437542&CFTOKEN=31448020)
+
 - **A Neural Probabilistic Language Model**(2000), Yoshua Bengio et al. [[pdf]](https://pdfs.semanticscholar.org/8d43/4a90b68fd0f2592d6fe7acf67d232123ad67.pdf?\_ga=2.262836293.895163446.1494660654-1308334183.1494658711)
 
+- **A new statistical approach to Chinese Pinyin input**(2000), Zheng Chen et al. [[pdf]](https://dl.acm.org/ft\_gateway.cfm?id=1075249&ftid=261667&dwn=1&CFID=843437542&CFTOKEN=31448020)
+
 - **Discriminative n-gram language modeling**(2007), Brian Roark et al. [[pdf]](https://pdfs.semanticscholar.org/b258/5b3cdcb81db887f756b8f90fd0e04f9ef952.pdf?\_ga=2.103398592.1137797782.1494660710-1308334183.1494658711)
+
+- **Neural Network Language Model for Chinese Pinyin Input Method Engine**(2015), S Chen et al. [[pdf]](https://pdfs.semanticscholar.org/1294/f49cf1a7397f0423ec617a78c7995139bc5b.pdf)
 
 - **Efficient Training and Evaluation of Recurrent Neural Network Language Models for Automatic Speech Recognition**(2016), Xie Chen et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7533441)
 
